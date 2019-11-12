@@ -1,4 +1,4 @@
 {
   "join.welcome":"&cBem-Vindo ao Servidor! &6{PLAYER}",
-  "commands.report":"&c/report &6<nick> <motivo> \n&cMotivos: &6KillAura, Fly, Speed"
+  "commands.report":"&c/report &6<nick> <motivo> \n&cMotivos: &6KillAura, Fly, Speed, HitBox"
 }
