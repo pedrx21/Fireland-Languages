@@ -1,6 +1,6 @@
 {
   "join.welcome":"&cWelcome! &6{PLAYER}",
-  "join.select.language":"&cYou set language to {LANG}",
+  "join.select.language":"&cYou set language to &6{LANG}",
   "commands.report":"&c/report &6<name> <reason> \n&cReason: &6KillAura, Fly, Speed, HitBox",
   "commands.response.discord":"&cJoin in discord and use &6!ativardc {TOKEN}"
 }
