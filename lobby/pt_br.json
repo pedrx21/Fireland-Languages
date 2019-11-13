@@ -1,4 +1,5 @@
 {
   "join.welcome":"&cBem-Vindo ao Servidor! &6{PLAYER}",
-  "commands.report":"&c/report &6<nick> <motivo> \n&cMotivos: &6KillAura, Fly, Speed, HitBox"
+  "commands.report":"&c/report &6<nick> <motivo> \n&cMotivos: &6KillAura, Fly, Speed, HitBox",
+  "commands.response.discord":"&cEntre no nosso discord e use &6!ativardc {TOKEN}"
 }
