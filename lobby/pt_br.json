@@ -3,7 +3,9 @@
   "join.select.language":"&cVocê setou a linguagem &6{LANG}",
   "join.preselect.language":"§cSua Linguagem atual é §6{LANG}",
   "register.ui.label":"&cSe registre em nosso servidor!",
-  "login.ui.label":"&cLogue-se",
+  "register.ui.pass":"Sua senha",
+  "register.ui.confirmpass":"Confirme sua senha",
+  "register.ui.email":"Digite seu email",
   "commands.report":"&c/report &6<nick> <motivo> \n&cMotivos: &6KillAura, Fly, Speed, HitBox",
   "commands.response.discord":"&cEntre no nosso discord e use &6!ativardc {TOKEN}"
 }
