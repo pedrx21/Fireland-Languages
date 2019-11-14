@@ -6,6 +6,7 @@
   "register.ui.pass":"Sua senha",
   "register.ui.confirmpass":"Confirme sua senha",
   "register.ui.email":"Digite seu email",
+  "register.ui.finished":"&cVocê registrou com sucesso!",
   "commands.report":"&c/report &6<nick> <motivo> \n&cMotivos: &6KillAura, Fly, Speed, HitBox",
   "commands.response.discord":"&cEntre no nosso discord e use &6!ativardc {TOKEN}"
 }
