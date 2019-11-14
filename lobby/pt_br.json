@@ -1,6 +1,8 @@
 {
   "join.welcome":"&cBem-Vindo ao Servidor! &6{PLAYER}",
   "join.select.language":"&cVocê setou a linguagem &6{LANG}",
+  "register.ui.label":"&cSe registre em nosso servidor!",
+  "login.ui.label":"&cLogue-se",
   "commands.report":"&c/report &6<nick> <motivo> \n&cMotivos: &6KillAura, Fly, Speed, HitBox",
   "commands.response.discord":"&cEntre no nosso discord e use &6!ativardc {TOKEN}"
 }
