@@ -1,12 +1,12 @@
 {
   "join.welcome":"&cBem-Vindo ao Servidor! &6{PLAYER}",
-  "join.select.language":"&cVocê setou a linguagem &6{LANG}",
-  "join.preselect.language":"§cSua Linguagem atual é §6{LANG}",
-  "register.ui.label":"&cSe registre em nosso servidor!",
-  "register.ui.pass":"Sua senha",
+  "join.select.language":"&cVocê definiu o idioma &6{LANG}",
+  "join.preselect.language":"§cSeu idioma atual é §6{LANG}",
+  "register.ui.label":"&cRegistre-se em nosso servidor!",
+  "register.ui.pass":"Senha",
   "register.ui.confirmpass":"Confirme sua senha",
   "register.ui.email":"Digite seu email",
-  "register.ui.finished":"&cVocê registrou com sucesso!",
+  "register.ui.finished":"&cRegistrado com sucesso!",
   "commands.report":"&c/report &6<nick> <motivo> \n&cMotivos: &6KillAura, Fly, Speed, HitBox",
-  "commands.response.discord":"&cEntre no nosso discord e use &6!ativardc {TOKEN}"
+  "commands.response.discord":"&cEntre em nosso servidor discord e use &6!ativardc {TOKEN}"
 }
