@@ -8,5 +8,7 @@
   "register.ui.email":"Digite seu email",
   "register.ui.finished":"&cRegistrado com sucesso!",
   "commands.report":"&c/report &6<nick> <motivo> \n&cMotivos: &6KillAura, Fly, Speed, HitBox",
-  "commands.response.discord":"&cEntre em nosso servidor discord e use &6!ativardc {TOKEN}"
+  "commands.response.discord":"&cEntre em nosso servidor discord e use &6!ativardc {TOKEN}",
+  "cheat.fly.response":"{PLAYER} está com suspeita de FLY!",
+  "cheat.killaura.response":"{PLAYER} está com suspeita de Kill-Aura, foram contadas {COUNT} suspeitas!!"
 }
