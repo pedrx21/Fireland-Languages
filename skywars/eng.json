@@ -1,0 +1,13 @@
+{
+	"winner.message": "Você ganhou a partida!",
+	"missing.players": "{players} faltando!",
+	"broadcast.join": "{player} entrou na partida! [{sala}/{max}]",
+	"broadcast.quit": "{player} saiu da partida! [{sala}/{max}]",
+	"chosen.kit": "Você escolheu o kit {kit}",
+	"no.permission": "Você não tem permissão.",
+	"kit.no.permission": "Você não tem permissões suficientes para ultilizar este kit. Obtenha-o na loja ou tenha [VIP]",
+	"broadcast.kill": "{player} matou {enemy}.",
+	"starting.tip": "{time} para iniciar a partida!",
+	"started.message": "Partida iniciada!\nMapa: {map}",
+	"full": "Partida cheia!"
+}
