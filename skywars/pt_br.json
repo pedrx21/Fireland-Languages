@@ -1,14 +1,3 @@
 {
-	"winner.message.all": "{player} ganhou a partida!",
-	"winner.message.player": "Você ganhou a partida!",
-	"missing.players": "{count} faltando!",
-	"arena.count": "{player} entrou na partida! [{count}/{max}]",
-	"arena.quit": "{player} saiu da partida! [{count}/{max}]",
-	"wrong.permission": "Você não tem permissão.",
-	"kit.selector": "Você escolheu o kit {kit}",
-	"kit.no.permission": "Você não tem permissões suficientes para utilizar este kit. Obtenha-o na loja ou obtenha VIP",
-	"arena.kill": "{player} matou {enemy}.",
-	"arena.starting": "{time} para iniciar a partida!",
-	"arena.started": "Partida iniciada!\nMapa: {map}",
-	"arena.full": "Partida cheia!"
+	
 }
