@@ -4,6 +4,6 @@
 	"arena.scoreboard.waiting":"§6Esperando Jogadores",
 	"arena.scoreboard.running":"§6Em Andamento",
 	"arena.scoreboard.resetting":"§6Resetando...",
-	"arena.scoreboard.count":"§a ->  {COUNT}/{MAX_PLAYERS}"
+	"arena.scoreboard.count":"§a >>  {COUNT}/{MAX_PLAYERS}"
 }
 
