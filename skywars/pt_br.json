@@ -1,4 +1,8 @@
 {
-	"arena.full":"Esta arena está cheia!",
+  "arena.full":"Esta arena está cheia!",
 	"arena.running":"Esta arena já está em andamento",
+	"arena.scoreboard.waiting":"Esperando Jogadores",
+	"arena.scoreboard.running":"Em Andamento",
+	"arena.scoreboard.resetting":"Resetando...",
+	"arena.scoreboard.count":"Jogadores {COUNT}/{MAX_PLAYERS}"
 }
