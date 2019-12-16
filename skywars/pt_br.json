@@ -6,7 +6,7 @@
 	"arena.scoreboard.resetting":"§6Resetando...",
 	"arena.scoreboard.count":"§a >>  {COUNT}/{MAX_PLAYERS}",
 	"arena.scoreboard.timer.starting":"§bIniciando em  {TIMER}",
-	"arena.scoreboard.timer.run":"§b >>  {TIMER}"
+	"arena.scoreboard.timer.run":"§b >>  {TIMER}",
 	"arena.command.parameters":"/arena create [nome] [max jogadores]",
 	"arena.command.notstring":"O nome não foi definido como palavra!",
 	"arena.command.notint":"A quantidade não foi definido como numero...",
