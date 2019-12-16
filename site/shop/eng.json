@@ -1,0 +1,14 @@
+{
+  "players.on.status": "We have {players} players playing in the exact moment",
+  "slogan.shop": "Buy our products and adquire advantages!",
+  "products.title.div": "Products",
+  "prices": {
+    "vip": 1.99,
+    "vip_plus": 3.99
+  },
+  "navbar": {
+    "link1": "Home",
+    "link2": "Cart",
+    "user_logged": "Hey, {user}"
+  }
+}
