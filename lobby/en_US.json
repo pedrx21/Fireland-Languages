@@ -1,0 +1,14 @@
+{
+  "join.welcome":"&cWelcome to! &6{PLAYER}.",
+  "join.select.language":"&cYou selected &6{LANG} language.",
+  "join.preselect.language":"§cYou current language is §6{LANG}.",
+  "register.ui.label":"&cSign-up on our server first!",
+  "register.ui.pass":"Password",
+  "register.ui.confirmpass":"Confirm your password!",
+  "register.ui.email":"Type your email address. ",
+  "register.ui.finished":"&cSuccessfully signed!",
+  "commands.report":"&c/report &6<nick> <reason> \n&cReasons: &6KillAura, Fly, Speed, HitBox",
+  "commands.response.discord":"&cJoin on our Discord server and use &6!ativardc {TOKEN}",
+  "cheat.fly.response":"{PLAYER} seems to be Flying!",
+  "cheat.killaura.response":"{PLAYER} seems to be using Kill-Aura, were told {COUNT} times!"
+}
