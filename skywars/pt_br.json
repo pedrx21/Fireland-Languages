@@ -13,5 +13,6 @@
 	"arena.command.create.notedit":"Você não está em uma edição de Arena, crie uma antes!",
 	"arena.command.create.pos.count":"Você setou até agora {COUNT} de um total de {MAX} posições!",
 	"arena.command.create.pos.finish":"Você setou todas as posições, dê /arena save",
+	"arena.command.create.save":"Você salvou a arena com sucesso!"
 }
 
